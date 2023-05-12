@@ -3248,7 +3248,7 @@ img.u-pull-left {
 
 .s-intro__notify button.btn--stroke:focus,
 .s-intro__notify button.btn--stroke:hover {
-    border : 1px solid transparent;
+    border : 1px solid;
 }
 
 /* -------------------------------------------------------------------
