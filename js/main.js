@@ -13,7 +13,7 @@
     const cfg = {
 
         // Countdown Timer Final Date
-        finalDate : 'January 1, 2024 12:00:00',
+        finalDate : 'October 1, 2024 12:00:00',
         // MailChimp URL
         mailChimpURL : 'https://xlr8research.us21.list-manage.com/subscribe/post?u=52036970a799f6c7d2905f77a&amp;id=54f8faf113&amp;f_id=00e642e1f0'
 
